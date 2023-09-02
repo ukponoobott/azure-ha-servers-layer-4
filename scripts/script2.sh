@@ -8,10 +8,10 @@ sudo ufw allow 'Apache'
 
 sudo -i
 
-sudo cat > /var/www/html/index.html <<'EOF'  
-<h1> Hello User</h1>
+sudo cat > /var/www/html/index.html <<'EOF'
+<h1> Hello there!</h1>
   <p>
-    Welcome to Knixat server 2:
-    <a href="https://www.knixat.com">Checkout our website</a>
+    Welcome to my Second Server:
+    <a href="https://www.facebook.com"Connect with friends and family</a>
   </p>
 EOF
